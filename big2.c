@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void big2()
 {
 	clrscr();
@@ -15,5 +14,5 @@ void big2()
 		big=b;
 	}
 	printf("Biggest of the two number is %d",big);
-	getch();
+	
 }
